@@ -40,3 +40,4 @@ $ git remote -v
 ```
 $ git push origin master
 ```
+强制推送  git push -f origin master
