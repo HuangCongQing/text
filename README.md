@@ -38,6 +38,6 @@ $ git remote -v
 ```
 八、 提交代码到 GitHub 仓库
 ```
-$ git push origin master
+$ git push -f origin master
 ```
 强制推送  git push -f origin master
